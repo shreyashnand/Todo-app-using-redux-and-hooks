@@ -1,4 +1,4 @@
-#h2 live at [app](shreyash-todo-app.surge.sh)
+##h2 live at [app](http://shreyash-todo-app.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
