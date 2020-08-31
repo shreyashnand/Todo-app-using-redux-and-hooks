@@ -1,4 +1,4 @@
-## live at [app](http://shreyash-todo-app.surge.sh/)
+## live demo > [app](http://shreyash-todo-app.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
